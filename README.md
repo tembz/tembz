@@ -1,5 +1,11 @@
-## Hi there 👋
+## О себе
 
+Привет, я Киря! Python разработчик, умею делать небольшие проекты, используя СУБД `PostgreSQL` и `SQLite`
+
+## Разработка
+- [ahuella](https://github.com/tembz/ahuella) - модуль для работы с [api.hella.team](https://vk.com/hella_api) совместный с [tenkawaa](https://github.com/tenkawaa)
+- [catch_tg_premium](https://github.com/tenkawaa/catch_tg_premium) парсер розыгрышей тг премиум так же совместный с [tenkawaa](https://github.com/tenkawaa)
+- [cringelog](https://github.com/tembz/cringelog) обычный небольшой логгер на языке python.
 <!--
 **tembz/tembz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
