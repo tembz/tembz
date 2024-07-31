@@ -1,6 +1,6 @@
 ## О себе
 
-Привет, я Киря! Python разработчик, умею делать небольшие проекты, используя СУБД `PostgreSQL` и `SQLite`
+Привет, я Серёга! Python разработчик, умею делать небольшие проекты, используя СУБД `PostgreSQL` и `SQLite`
 
 ## Разработка
 - [ahuella](https://github.com/tembz/ahuella) - модуль для работы с [api.hella.team](https://vk.com/hella_api) совместный с [tenkawaa](https://github.com/tenkawaa)
